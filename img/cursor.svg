@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <defs>
+      <rect id="SVGID_1_" width="32" height="32"/>
+    </defs>
+    <clipPath id="SVGID_2_">
+      <rect width="32" height="32" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#SVGID_2_)">
+      <defs>
+        <rect id="SVGID_3_" width="32" height="32"/>
+      </defs>
+      <clipPath id="SVGID_4_">
+        <rect width="32" height="32" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+      </clipPath>
+      <g opacity="0.85" clip-path="url(#SVGID_4_)">
+        <g>
+          <defs>
+            <rect id="SVGID_5_" x="4" y="4" width="23" height="23"/>
+          </defs>
+          <clipPath id="SVGID_6_">
+            <rect x="4" y="4" width="23" height="23" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+          </clipPath>
+          <g clip-path="url(#SVGID_6_)">
+            <defs>
+              <rect id="SVGID_7_" x="4" y="4" width="23" height="23"/>
+            </defs>
+            <clipPath id="SVGID_8_">
+              <rect x="4" y="4" width="23" height="23" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+            </clipPath>
+            <g opacity="0.85" clip-path="url(#SVGID_8_)">
+              <g>
+                <defs>
+                  <rect id="SVGID_9_" x="15" y="4" width="1" height="23"/>
+                </defs>
+                <clipPath id="SVGID_10_">
+                  <rect x="15" y="4" width="1" height="23" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+                </clipPath>
+                <rect x="15" y="4" clip-path="url(#SVGID_10_)" width="1" height="11" style="fill-rule: nonzero; paint-order: fill; fill: rgb(13, 178, 85);"/>
+                <rect x="15" y="16" clip-path="url(#SVGID_10_)" width="1" height="11" style="fill-rule: nonzero; paint-order: fill; fill: rgb(13, 178, 85);"/>
+              </g>
+            </g>
+            <g opacity="0.85" clip-path="url(#SVGID_8_)">
+              <g>
+                <defs>
+                  <rect id="SVGID_11_" x="4" y="15" width="23" height="1"/>
+                </defs>
+                <clipPath id="SVGID_12_">
+                  <rect x="4" y="15" width="23" height="1" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+                </clipPath>
+                <rect x="4" y="15" clip-path="url(#SVGID_12_)" width="11" height="1" style="fill-rule: nonzero; paint-order: fill; fill: rgb(13, 178, 85);"/>
+                <rect x="16" y="15" clip-path="url(#SVGID_12_)" width="11" height="1" style="fill-rule: nonzero; paint-order: fill; fill: rgb(13, 178, 85);"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g opacity="0.15" clip-path="url(#SVGID_4_)">
+        <g>
+          <defs>
+            <rect id="SVGID_13_" x="10" y="10" width="11" height="11"/>
+          </defs>
+          <clipPath id="SVGID_14_">
+            <rect x="10" y="10" width="11" height="11" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+          </clipPath>
+          <g clip-path="url(#SVGID_14_)">
+            <defs>
+              <rect id="SVGID_15_" x="10" y="10" width="11" height="11"/>
+            </defs>
+            <clipPath id="SVGID_16_">
+              <rect x="10" y="10" width="11" height="11" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+            </clipPath>
+            <path clip-path="url(#SVGID_16_)" d="M21,15.5c0,3-2.5,5.5-5.5,5.5c-3,0-5.5-2.5-5.5-5.5c0-3,2.5-5.5,5.5-5.5 C18.5,10,21,12.5,21,15.5" style="fill-rule: nonzero; paint-order: fill; fill: rgb(13, 178, 85);"/>
+          </g>
+        </g>
+      </g>
+      <g opacity="0.3" clip-path="url(#SVGID_4_)">
+        <g>
+          <defs>
+            <rect id="SVGID_17_" x="9.5" y="9.5" width="12" height="12"/>
+          </defs>
+          <clipPath id="SVGID_18_">
+            <rect x="9.5" y="9.5" width="12" height="12" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+          </clipPath>
+          <g clip-path="url(#SVGID_18_)">
+            <defs>
+              <rect id="SVGID_19_" x="9.5" y="9.5" width="12" height="12"/>
+            </defs>
+            <clipPath id="SVGID_20_">
+              <rect x="9.5" y="9.5" width="12" height="12" transform="matrix(1, 0, 0, 1, 0, 0)" overflow="visible"/>
+            </clipPath>
+            <circle clip-path="url(#SVGID_20_)" stroke="#0db255" cx="15.5" cy="15.5" r="5.5" style="fill-rule: nonzero; paint-order: fill; fill: rgb(0, 255, 111);"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
