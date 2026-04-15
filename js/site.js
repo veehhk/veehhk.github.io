@@ -595,7 +595,7 @@
         this.txt = fullTxt.substring(0, this.txt.length + 1);
         }
         
-        this.el.innerHTML = "<div class='wrap' style='min-height: 40px !important; width:100% !important;'><span style='float: left;'>I'm&nbsp;</span><h1 style='float: left; color: #07cb79'>"+this.txt+"</h1></div>";
+        this.el.innerHTML = "<div class='wrap' style='min-height: 40px !important; width:100% !important;'><span style='float: left;'>I'm&nbsp;</span><h1 style='float: left; color: #07cb79'>H"+this.txt+"</h1></div>";
 
         var that = this;
         var delta = 200 - Math.random() * 100;
@@ -715,13 +715,13 @@
         if(findDayOrNight()) {
             $('html').removeClass('theme-skin-light').fadeOut(500);
             $('html').addClass('theme-skin-dark').fadeIn(500);
-            document.getElementById('bgm-source').src = '../resources/peace.mp3';
+            document.getElementById('bgm-source').src = '../resources/emerald.mp3';
             document.getElementById('bgm').load();
             darkParticle();
         } else {
             $('html').removeClass('theme-skin-dark').fadeOut(500);
             $('html').addClass('theme-skin-light').fadeIn(500);
-            document.getElementById('bgm-source').src = '../resources/intro.mp3';
+            document.getElementById('bgm-source').src = '../resources/emerald.mp3';
             document.getElementById('bgm').load();
             lightParticle();
         }
